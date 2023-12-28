@@ -1,0 +1,88 @@
+body {
+  background-image:
+  url(pics/sfondo.jpg);
+  width:100vw;
+  height: 100vh;
+  background-size:cover;
+  overflow: hidden;
+  padding-top: 30px;
+
+}
+ #dark_background {
+  width: 900px;
+  height: 550px;
+  background-color: rgba(0,0,0,0.5);
+  border-radius: 3%;
+  margin: auto;
+  margin-top: 30px;
+  color: white;
+}
+main
+{color: white;
+
+}
+.intro {
+  text-align: center;
+}
+
+.logo {
+  width: 170px;
+  height: 70px;
+  margin-top: 50px;
+}
+
+.title {
+  color: rgb(50,255,35);
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 25px;
+  margin:auto;
+}
+
+.navigation{
+  width: 700px;
+  height: 40px;
+  margin: auto;
+  background-color: rgb(50,255,35);
+  text-align: center;
+}
+
+.pulsante {
+  height: 20px;
+  margin-top: 10px;
+}
+
+.monopattini {
+  width: 700px;
+  height: 85px;
+  margin: auto;
+  margin-top: 15px;
+ }
+
+ .Nominativo {
+   display: inline-block;
+   height: 20px;
+   margin: 0;
+   font-family: 'Josefin Sans', sans-serif;
+   font-size: 20px;
+ }
+
+ #Barra_orange {
+   height: 20px;
+   width:  250px;
+   background-color: orange;
+   border-radius: 5px;
+ }
+
+ #Barra_green {
+   height: 20px;
+   width: 500px;
+   background-color: green;
+   border-radius: 5px;
+ }
+
+ #Barra_red {
+   height: 20px;
+   width: 100px;
+   background-color: red;
+   border-radius: 5px;
+ }
